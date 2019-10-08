@@ -1,0 +1,1 @@
+# Calculadora_NoCalcula_Dinamica
